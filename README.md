@@ -56,7 +56,7 @@ The provided `substation.ssd` is a System Specification Description file that de
 It can be opened and validated using:
 
 - **[OpenSCD](https://github.com/openscd/open-scd)** — open-source IEC 61850 SCL editor
-- **[OpenSCD — /Transpower fork]** — extended fork with additional validation and workflow support - here there SLD shows correctly.
+- **[OpenSCD — /Transpower fork]** — extended fork with additional validation and workflow support - here the SLD shows correctly.
 
 ### Recommended workflow
 
