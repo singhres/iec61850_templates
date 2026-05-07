@@ -28,7 +28,7 @@ The goal is to reduce inconsistency across IED signal engineering by providing t
 | Substation (SSD) | — | [substation.ssd](scl/ssd/substation.ssd) | ✅ Available |
 | Transformer | — | — | 🔜 Planned |
 | Incomer | — | — | 🔜 Planned |
-| Busbar / Coupler | — | — | 🔜 Planned |
+| Bus-section / Coupler | — | — | 🔜 Planned |
 
 ---
 
