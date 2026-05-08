@@ -50,7 +50,7 @@ These definitions are intended to guide SCD engineering, dataset/RCB configurati
 **Dataset:** `Switchgear_Status`  
 **Transport:** MMS  
 **RCB type:** BRCB  
-**Report name:** `RP_SWSTAT_UR`  
+**Report name:** `RP_SWSTAT_BR`  
 **TrgOps:** `dchg + qchg + dupd + gi + period`  
 **BufTm:** 100 ms  
 **IntgPd:** 86 400 000 ms (24 h)
