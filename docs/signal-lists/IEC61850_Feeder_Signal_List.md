@@ -215,7 +215,7 @@ These definitions are intended to guide SCD engineering, dataset/RCB configurati
 | `MinTime` | 1 ms |
 | `MaxTime` | 10000 ms |
 
-> ⚠️ **Risk note:** Default VLAN-ID=0, base multicast MAC, and near-minimum APPID values represent compounded L2/application/architecture risks. Engineering must assign unique values per GCB and enforce VLAN segmentation at the process bus switch.  Note that the Transpower OPENSCD toolchain allows you to easily set unique values for some of these attributes.
+> ⚠️ **Risk note:** Default VLAN-ID=0, base multicast MAC, and near-minimum APPID values represent compounded L2/application/architecture risks. Engineering must assign unique values per GCB and enforce VLAN segmentation at the station/process bus switch.  Note that the Transpower OPENSCD toolchain allows you to easily set unique values for some of these attributes.
 
 ---
 
